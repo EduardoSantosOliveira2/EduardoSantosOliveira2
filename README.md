@@ -1,16 +1,14 @@
-## Hi there 👋
+## Ola bem vindo ao meu perfil 🫶
 
-<!--
-**EduardoSantosOliveira2/EduardoSantosOliveira2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduardo Santos Oliveira
 
-Here are some ideas to get you started:
+- começei a estudar no alura recentemente
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- utilizo esse espaço para aprender a programar
+
+- ### caso queira entra em contato
+- @ dudu._zx
+
+- gmail: 0001106302904sp@al.educacao.sp.gov.br
+
+  ![](https://media.tenor.com/V6y0G_YfqBgAAAAM/goofy-dog-smiling-goofy.gif)
